@@ -1,0 +1,20 @@
+
+body {
+    font-family: serif; 
+}
+
+
+.hero-section {
+    background: linear-gradient(90deg, #7F00FF, #E100FF);
+    color: white;
+}
+
+
+.btn-primary {
+    background-color: #7F00FF;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #6c00d6;
+}
